@@ -1,4 +1,4 @@
-# Push Data to GTable ofer GForms
+# Push Data to GTable over GForms
 
 A Flutter project to Scan Barcode and paste it automaticly to GForms.
 
